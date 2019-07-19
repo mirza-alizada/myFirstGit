@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "week2",
+  "main": "test",
+  "scripts": {
+    "test": "hello this my first git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirza-alizada/myFirstGit.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mirza Ali Zada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirza-alizada/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/mirza-alizada/myFirstGit#readme"
+}
